@@ -117,11 +117,11 @@ public class Student {
 	
 	public String toString() {
 		if (isolationStatus > 0) {
-			return name + " has tested positive with COVID and is in isolation for " + isolationStatus + " more days" + positivityStatus;
+			return name + " has tested positive with COVID and is in isolation for " + isolationStatus + " more days";
 		} else if (quarantineStatus > 0) {
-			return name + " was in close contact with someone who tested positive for COVID and is in quarantine for " + quarantineStatus + " more days" + positivityStatus;
+			return name + " was in close contact with someone who tested positive for COVID and is in quarantine for " + quarantineStatus + " more days";
 		} else {
-			return name + " has not tested positive for COVID and has not been reported to have been in contact with someone who has tested positive." + positivityStatus;
+			return name + " has not tested positive for COVID and has not been reported to have been in contact with someone who has tested positive.";
 		}
 	}
 }
