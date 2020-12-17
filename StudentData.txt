@@ -1,0 +1,11 @@
+10
+Kyle Bennett 0001 1 Sutton 101
+Michael Wiedner 0002 1 Sutton 101
+Jack Tomich 0003 1 Sutton 102
+Nicole Ponce 0004 1 Lakeside 105
+Barack Obama 0005 1 Lakeside 104
+Sara Smith 0006 0
+Donald Drumpf 0007 0
+Steve Rogers 0008 0
+Stan Lee 0009 1 Lakeside 104
+Fred Rogers 0010 1 Sutton 101
