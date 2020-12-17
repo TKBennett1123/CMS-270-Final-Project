@@ -148,6 +148,10 @@ public class Student {
 	public void setResidency(Residency residency) {
 		this.residency = residency;
 	}
+	
+	//
+	// Methods
+	//
 
 	/** Removes a certain number of days the student is to remain in isolation
 	 * 
